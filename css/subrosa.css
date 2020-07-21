@@ -43,7 +43,7 @@ background-color: #4e525a;
 	background-color: #7f6f93 !important;
 	}
 th,td,p {
-	 font-family: copperplate gothic, candara, sans serif }
+	 font-family: candara, sans serif }
 a img {
 	 border: none;
 	 }
@@ -387,10 +387,10 @@ h1.pagetitle {
 	color: #297d94;
 	}
 h1.title2 {
-	font-size: 11px;
+	font-size: 12px;
 	}
 .secondarytitle,.secondarytitle h2 {
-	font-family: copperplate gothic, candara, serif
+	font-family: copperplate gothic, candara, serif !important;
 	margin: 0;
 	padding: 0;
 	color: #297d94;
